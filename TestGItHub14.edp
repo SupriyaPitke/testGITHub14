@@ -4,8 +4,9 @@
   <_Project>
     <ProjectName val="TestGItHub14"/>
     <VCProjectID val="0"/>
-    <VCActive val="N"/>
+    <VCActive val="Y"/>
     <WorkOffline val="N"/>
+    <VCProjectName val="."/>
     <SourceDirectory val="Source"/>
     <ExportsDirectory val="Exports"/>
     <GUID val="{A371312A-3EBE-4D63-AB92-B60AA1D3E87D}"/>
